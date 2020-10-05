@@ -8,6 +8,7 @@ package com.company;
 class CoffeeMachine {
     private float coffeeQuantity;
     private float waterQuantity;
+    String s;
 
     static private CoffeeMachine machine = null;
 
